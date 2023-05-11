@@ -1,0 +1,6 @@
+Arch: amd64
+RAM: 23938MiB
+Disk: 476G
+CPU: Intel Core i5-7200U @ 4x 3.1GHz
+OS: GNU/Linux (Fedora 36)
+Display: 1366 * 768 (16:9)

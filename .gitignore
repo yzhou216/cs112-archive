@@ -1,0 +1,12 @@
+*.class
+.metadata/
+.classpath
+.project
+CSVTester.csv
+speed.csv
+sort.txt
+sort0.txt
+sort1.txt
+sort2.txt
+codebook.txt
+test.txt
